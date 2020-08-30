@@ -67,6 +67,12 @@ Once the files are set up as above, follow these steps to install the module:
 
 * Click the 'Generate Cheque' button to view the cheque.
 
+### Live Drupal instance online
+
+* Access the Live form online [here](http://demo.mycustomurl.webfactional.com/cheque-demo).
+
+* Fill out the details and click 'Generate Cheque'.
+
 ### Uninstall
 
 * Navigate to the './admin/modules' url eg. localhost/admin/modules.
