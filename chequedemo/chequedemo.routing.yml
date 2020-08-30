@@ -1,0 +1,15 @@
+chequedemo.form:
+  path: '/cheque-demo'
+  defaults:
+    _form: '\Drupal\chequedemo\Form\ChequeForm'
+    _title: 'Cheque Generator'
+  requirements:
+    _permission: 'access content'
+
+chequedemo.result:
+  path: '/cheque-result'
+  defaults:
+    _form: '\Drupal\chequedemo\Form\ChequeResultForm'
+    _title: 'Cheque Result'
+  requirements:
+    _permission: 'access content'

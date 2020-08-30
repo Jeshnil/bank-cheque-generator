@@ -1,0 +1,7 @@
+name: Cheque Generator
+description: Cheque Generator demo module in Drupal
+package: Cheque Generator
+type: module
+version: 1.0
+core: 8.x
+configure: chequedemo.admin_settings
